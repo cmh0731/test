@@ -1,0 +1,4 @@
+D:/C++/test/build/CMakeFiles/common.dir
+D:/C++/test/build/CMakeFiles/main.dir
+D:/C++/test/build/CMakeFiles/edit_cache.dir
+D:/C++/test/build/CMakeFiles/rebuild_cache.dir
